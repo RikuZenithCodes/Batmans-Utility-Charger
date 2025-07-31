@@ -22,3 +22,4 @@ Now moving on to the cad of this project it was surprisingly difficult to find t
 <img width="1549" height="903" alt="chargerback" src="https://github.com/user-attachments/assets/acbdeb43-1365-4122-b93a-2ab8da187fd0" />
 <img width="1422" height="1029" alt="charger1" src="https://github.com/user-attachments/assets/11d10d31-2f50-4170-b29b-02c0caeac44c" />
 <img width="1551" height="843" alt="batman charger" src="https://github.com/user-attachments/assets/51c62b57-3fce-4262-a771-9c02003835de" />
+TOTAL TIME SPENT: 3 hours
