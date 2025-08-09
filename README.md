@@ -23,7 +23,9 @@ Using screws I plan to use them to keep the whole case together
 | Buttons            | $4.32       | 1        | $4.32    | [Buy](https://www.amazon.ca/Honbay-6x6x4-3mm-Momentary-Switches-Pushbutton/dp/B077N3D7BD/ref=sr_1_6?crid=2AMPQ6I8EPBEV)    |
 | Battery            | $14.42      | 1        | $14.42   | [Buy](https://www.amazon.ca/dp/B08ZCQXFX4/ref=sspa_dk_detail_1?pd_rd_i=B08ZCQXFX4)                                         |
 | Resistors          | $14.42      | 1        | $14.42   | [Buy](https://www.amazon.ca/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FD1XVL6/ref=sr_1_2_sspa)                     |
+| Screws             | I have some | XD       | Free     |                                                                                                                            |
 | **Final Total**    |             |          | **$88.75** |                                                                                                                             |
+
 
 
 
