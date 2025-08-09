@@ -4,7 +4,10 @@ If batman ever needed a portable charger just incase to charge his phone, or the
 The reason why I made this project is because I don't have a good portable charger and wanted to see what I make could compare and be better. The reason for batman is because I like superheros and I think this would be something that batman would have on him for no reason.
 
 # CAD
-<img width="1551" height="843" alt="batman charger" src="https://github.com/user-attachments/assets/d63099e0-082a-4872-a960-af9bf53d0de8" />
+<img width="1552" height="899" alt="front final" src="https://github.com/user-attachments/assets/f609c397-a9c0-4a49-84a3-a647d7943f5b" />
+<img width="1142" height="802" alt="backfinal" src="https://github.com/user-attachments/assets/b185f2ca-0743-43f3-aa81-2069afab6987" />
+<img width="1134" height="831" alt="side of charger" src="https://github.com/user-attachments/assets/1be8e61c-13f4-4984-83b0-48f45c89aa73" />
+Using screws I plan to use them to keep the whole case together
 
 # Wiring
 <img width="1150" height="952" alt="batman C" src="https://github.com/user-attachments/assets/a373df16-66b2-4336-8cc9-b4a4081a0135" />
@@ -20,4 +23,9 @@ The reason why I made this project is because I don't have a good portable charg
 | Buttons            | $4.32       | 1        | $4.32    | [Buy](https://www.amazon.ca/Honbay-6x6x4-3mm-Momentary-Switches-Pushbutton/dp/B077N3D7BD/ref=sr_1_6?crid=2AMPQ6I8EPBEV)    |
 | Battery            | $14.42      | 1        | $14.42   | [Buy](https://www.amazon.ca/dp/B08ZCQXFX4/ref=sspa_dk_detail_1?pd_rd_i=B08ZCQXFX4)                                         |
 | Resistors          | $14.42      | 1        | $14.42   | [Buy](https://www.amazon.ca/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FD1XVL6/ref=sr_1_2_sspa)                     |
+| Screws             | I have some | XD       | Free     |                                                                                                                            |
 | **Final Total**    |             |          | **$88.75** |                                                                                                                             |
+
+
+
+
