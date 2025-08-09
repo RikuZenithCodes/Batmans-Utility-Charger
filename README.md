@@ -7,6 +7,7 @@ The reason why I made this project is because I don't have a good portable charg
 <img width="1552" height="899" alt="front final" src="https://github.com/user-attachments/assets/f609c397-a9c0-4a49-84a3-a647d7943f5b" />
 <img width="1142" height="802" alt="backfinal" src="https://github.com/user-attachments/assets/b185f2ca-0743-43f3-aa81-2069afab6987" />
 <img width="1134" height="831" alt="side of charger" src="https://github.com/user-attachments/assets/1be8e61c-13f4-4984-83b0-48f45c89aa73" />
+<img width="1647" height="678" alt="parts" src="https://github.com/user-attachments/assets/990b0a8c-a8fb-4b34-876a-599133c19418" />
 Using screws I plan to use them to keep the whole case together
 
 # Wiring
@@ -25,6 +26,7 @@ Using screws I plan to use them to keep the whole case together
 | Resistors          | $14.42      | 1        | $14.42   | [Buy](https://www.amazon.ca/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FD1XVL6/ref=sr_1_2_sspa)                     |
 | Screws             | I have some | XD       | Free     |                                                                                                                            |
 | **Final Total**    |             |          | **$88.75** |                                                                                                                             |
+
 
 
 
