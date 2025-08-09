@@ -8,6 +8,7 @@ The reason why I made this project is because I don't have a good portable charg
 <img width="1246" height="1002" alt="back of charger" src="https://github.com/user-attachments/assets/a9454baa-886d-415a-8d99-26c8b201b1dc" />
 <img width="1134" height="831" alt="side of charger" src="https://github.com/user-attachments/assets/1be8e61c-13f4-4984-83b0-48f45c89aa73" />
 Using screws I plan to use them to keep the whole case together
+
 # Wiring
 <img width="1150" height="952" alt="batman C" src="https://github.com/user-attachments/assets/a373df16-66b2-4336-8cc9-b4a4081a0135" />
 
@@ -23,4 +24,5 @@ Using screws I plan to use them to keep the whole case together
 | Battery            | $14.42      | 1        | $14.42   | [Buy](https://www.amazon.ca/dp/B08ZCQXFX4/ref=sspa_dk_detail_1?pd_rd_i=B08ZCQXFX4)                                         |
 | Resistors          | $14.42      | 1        | $14.42   | [Buy](https://www.amazon.ca/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FD1XVL6/ref=sr_1_2_sspa)                     |
 | **Final Total**    |             |          | **$88.75** |                                                                                                                             |
+
 
