@@ -4,8 +4,8 @@ If batman ever needed a portable charger just incase to charge his phone, or the
 The reason why I made this project is because I don't have a good portable charger and wanted to see what I make could compare and be better. The reason for batman is because I like superheros and I think this would be something that batman would have on him for no reason.
 
 # CAD
-<img width="1389" height="878" alt="ventsaddon" src="https://github.com/user-attachments/assets/8cba2cee-ec66-4625-ac48-2bf71accb59d" />
-<img width="1135" height="680" alt="backaddon" src="https://github.com/user-attachments/assets/a27a6c36-68e2-43df-827b-d04ff4c44207" />
+<img width="1271" height="888" alt="ventsaddon" src="https://github.com/user-attachments/assets/60398421-95ca-4e60-9fb3-041d8bc51af7" />
+<img width="1055" height="813" alt="backaddon" src="https://github.com/user-attachments/assets/633e3c58-a043-448a-bbac-15f2f2fd1174" />
 <img width="1375" height="544" alt="parts" src="https://github.com/user-attachments/assets/ea8e18fd-24ef-401f-af4b-b8afc3cbbd95" />
 
 Using screws I plan to use them to keep the whole case together
@@ -26,6 +26,7 @@ Using screws I plan to use them to keep the whole case together
 | Resistors          | $14.42      | 1        | $14.42   | [Buy](https://www.amazon.ca/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FD1XVL6/ref=sr_1_2_sspa)                     |
 | Screws             | I have some | XD       | Free     |                                                                                                                            |
 | **Final Total**    |             |          | **$88.75** |                                                                                                                             |
+
 
 
 
